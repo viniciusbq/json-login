@@ -29,12 +29,7 @@
       "id": 5,
       "title": "Jogar Video-game",
       "completed": false
-    },
-    {
-      "userId": 1,
-      "id": 6,
-      "title": "Academia",
-      "completed": false
     }
+   
   ]
 }
