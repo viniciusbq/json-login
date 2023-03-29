@@ -1,22 +1,40 @@
 {
-  "users": [
+  "todos": [
     {
-      "nome": "Emanuel",
-      "email": "manel@gmail.com",
-      "senha": "A124578Bb",
-      "id": "1"
+      "userId": 1,
+      "id": 1,
+      "title": "Fazer a task de redux",
+      "completed": true
     },
     {
-      "nome": "Gustavo",
-      "email": "gustavoea@gmail.com",
-      "senha": "A172030b",
-      "id": "2"
+      "userId": 1,
+      "id": 2,
+      "title": "Lavar o carro",
+      "completed": true
     },
     {
-      "nome": "Vinicius",
-      "email": "borbaqueirozvinicius@gmail.com",
-      "senha": "Vinicius123",
-      "id": "q3Coabi"
+      "userId": 1,
+      "id": 3,
+      "title": "Faculdade",
+      "completed": true
+    },
+    {
+      "userId": 1,
+      "id": 4,
+      "title": "Cinema",
+      "completed": true
+    },
+    {
+      "userId": 1,
+      "id": 5,
+      "title": "Jogar Video-game",
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "id": 6,
+      "title": "Academia",
+      "completed": false
     }
   ]
 }
